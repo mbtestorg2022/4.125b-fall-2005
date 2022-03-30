@@ -7,6 +7,7 @@ image_metadata:
   caption: Another view of the final model.
   credit: Image courtesy of MIT OCW.
   image-alt: Another view of the final model.
+parent_uid: 203eb0d6-b763-bf48-8f50-c75542f62f5f
 resourcetype: Image
 title: raja6.jpg
 uid: 51564f5b-a1e3-4fb0-8e8a-2c0bbff24adc

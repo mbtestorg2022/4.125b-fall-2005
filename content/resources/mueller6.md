@@ -8,6 +8,7 @@ image_metadata:
   caption: A long view of the final model, from the pedestrian's perspective.
   credit: Image courtesy of MIT OCW.
   image-alt: A long view of the final model, from the pedestrian's perspectiv
+parent_uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
 resourcetype: Image
 title: mueller6.jpg
 uid: 7f247a82-80c5-09dd-ad4e-6b37227f0788

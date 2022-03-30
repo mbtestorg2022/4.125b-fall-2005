@@ -8,6 +8,7 @@ image_metadata:
   caption: The program, laid out in a series of diagrams.
   credit: Image courtesy of MIT OCW.
   image-alt: The program, laid out in a series of diagrams.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee3.jpg
 uid: 52f357bd-f9d5-58e4-93f6-f65aff96d3bf

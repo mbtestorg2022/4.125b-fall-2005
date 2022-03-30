@@ -7,6 +7,7 @@ image_metadata:
   caption: A plan of the final project.
   credit: Image courtesy of MIT OCW.
   image-alt: A plan of the final project.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee8.jpg
 uid: bad0804b-4793-b0c6-5e4b-731f2c56cda8

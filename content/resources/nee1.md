@@ -7,6 +7,7 @@ image_metadata:
   caption: The quarry project model.
   credit: Image courtesy of MIT OCW.
   image-alt: The quarry project model.
+parent_uid: f56bf2fa-1469-151d-7554-da944be428dd
 resourcetype: Image
 title: nee1.jpg
 uid: 4c08cf60-df14-170b-1906-9ed00a190fd5

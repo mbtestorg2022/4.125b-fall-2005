@@ -7,6 +7,7 @@ image_metadata:
   caption: A detail model of the final project.
   credit: Image courtesy of MIT OCW.
   image-alt: A detail model of the final project.
+parent_uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
 resourcetype: Image
 title: mueller4.jpg
 uid: 9fe98b90-c25b-4e8a-7082-98d8f457da93

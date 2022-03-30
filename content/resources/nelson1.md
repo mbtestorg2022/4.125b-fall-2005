@@ -8,6 +8,7 @@ image_metadata:
   caption: 'The quarry project: An intimate performance space.'
   credit: Image courtesy of MIT OCW.
   image-alt: 'The quarry project: An intimate performance space.'
+parent_uid: e4c39cd0-987b-e266-4221-331486936e8f
 resourcetype: Image
 title: nelson1.jpg
 uid: dbbf4f74-37ef-e2b4-26ef-e6be379ecf8c

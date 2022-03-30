@@ -7,6 +7,7 @@ image_metadata:
   caption: Digital renderings of the final project.
   credit: Image courtesy of MIT OCW.
   image-alt: Digital renderings of the final project.
+parent_uid: e4c39cd0-987b-e266-4221-331486936e8f
 resourcetype: Image
 title: nelson8.jpg
 uid: cc7aa0bb-dc8c-12cb-4909-e56ead445918

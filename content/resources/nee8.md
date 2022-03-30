@@ -7,6 +7,7 @@ image_metadata:
   caption: A section through the space.
   credit: Image courtesy of MIT OCW.
   image-alt: A section through the space.
+parent_uid: f56bf2fa-1469-151d-7554-da944be428dd
 resourcetype: Image
 title: nee8.jpg
 uid: 623b0d95-fd91-1eeb-adb5-11f31af3fbc9

@@ -7,6 +7,7 @@ image_metadata:
   caption: The second floor plan.
   credit: Image courtesy of MIT OCW.
   image-alt: The second floor plan.
+parent_uid: f56bf2fa-1469-151d-7554-da944be428dd
 resourcetype: Image
 title: nee7.jpg
 uid: 7050ff50-f297-139b-4c2a-55a3ff439656

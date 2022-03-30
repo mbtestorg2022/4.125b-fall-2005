@@ -7,6 +7,7 @@ image_metadata:
   caption: A study model showing how spaces interrelate.
   credit: Image courtesy of MIT OCW.
   image-alt: A study model showing how spaces interrelate.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee2.jpg
 uid: 7caa0d2d-5fca-2034-d719-fc3c1f7a02a3

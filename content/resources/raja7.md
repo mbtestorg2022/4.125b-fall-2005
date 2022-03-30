@@ -8,6 +8,7 @@ image_metadata:
   caption: A detailed structural model of the final project.
   credit: Image courtesy of MIT OCW.
   image-alt: A detailed structural model of the final project.
+parent_uid: 203eb0d6-b763-bf48-8f50-c75542f62f5f
 resourcetype: Image
 title: raja7.jpg
 uid: f4c0d1b3-b809-67a1-367c-e1c0adf431f6

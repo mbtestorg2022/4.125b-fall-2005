@@ -7,6 +7,7 @@ image_metadata:
   caption: Digital renderings of the final project.
   credit: Image courtesy of MIT OCW.
   image-alt: Digital renderings of the final project.
+parent_uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
 resourcetype: Image
 title: mueller8.jpg
 uid: 8cb945cd-2aa6-e435-d27b-56790eff099c

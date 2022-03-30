@@ -8,6 +8,7 @@ image_metadata:
   caption: The final model, showing the project in its site.
   credit: Image courtesy of MIT OCW.
   image-alt: The final model, showing the project in its site.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee7.jpg
 uid: 1c58b2e3-34e6-8515-48bc-247448d3dbc0

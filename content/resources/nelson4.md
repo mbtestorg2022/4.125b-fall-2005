@@ -8,6 +8,7 @@ image_metadata:
   caption: The final model, with it's relation to the surroundings.
   credit: Image courtesy of MIT OCW.
   image-alt: The final model, with it's relation to the surroundings.
+parent_uid: e4c39cd0-987b-e266-4221-331486936e8f
 resourcetype: Image
 title: nelson4.jpg
 uid: a9f63b47-b77f-3df1-33b5-48951df82d78

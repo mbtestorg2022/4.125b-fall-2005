@@ -7,6 +7,7 @@ image_metadata:
   caption: A second study model.
   credit: Image courtesy of MIT OCW.
   image-alt: A second study model.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee5.jpg
 uid: c4ec5be1-e075-0b70-c127-441587fd2e67

@@ -7,6 +7,7 @@ image_metadata:
   caption: The final model.
   credit: Image courtesy of MIT OCW.
   image-alt: The final model.
+parent_uid: f56bf2fa-1469-151d-7554-da944be428dd
 resourcetype: Image
 title: nee6.jpg
 uid: eefe7ac2-518c-5f8c-923c-f544f611add9

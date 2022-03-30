@@ -8,6 +8,7 @@ image_metadata:
   caption: The final review, a display of all the work from the semester.
   credit: Image courtesy of MIT OCW.
   image-alt: The final review, a display of all the work from the semester.
+parent_uid: dcae75db-dd0b-fd3f-ae07-583e799dd1c4
 resourcetype: Image
 title: mueller1.jpg
 uid: 0f65ffb6-67f6-3eb3-b5bc-6b36f227167e

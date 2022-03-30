@@ -8,6 +8,7 @@ image_metadata:
   caption: Long view of a design model, showing the interweaving of spaces.
   credit: Image courtesy of MIT OCW.
   image-alt: Long view of a design model.
+parent_uid: e4c39cd0-987b-e266-4221-331486936e8f
 resourcetype: Image
 title: nelson3.jpg
 uid: d0c59fe0-f31d-23ee-71da-987d5464032f

@@ -7,6 +7,7 @@ image_metadata:
   caption: A more refined study model.
   credit: Image courtesy of MIT OCW.
   image-alt: A more refined study model.
+parent_uid: f56bf2fa-1469-151d-7554-da944be428dd
 resourcetype: Image
 title: nee4.jpg
 uid: dc1f7c64-d710-0ecf-4076-2e7545f5cf82

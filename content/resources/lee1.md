@@ -9,6 +9,7 @@ image_metadata:
     project.
   credit: Image courtesy of MIT OCW.
   image-alt: Working with found objects, junk models began to form the space.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee1.jpg
 uid: c0a14c99-04a1-8c45-086e-7b4369953458

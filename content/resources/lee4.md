@@ -7,6 +7,7 @@ image_metadata:
   caption: A large scale study model.
   credit: Image courtesy of MIT OCW.
   image-alt: A large scale study model.
+parent_uid: 0cb92c43-9292-f2f8-2908-a87acb88da86
 resourcetype: Image
 title: lee4.jpg
 uid: e0787704-238c-b447-e316-9f6fa83ec2f7
